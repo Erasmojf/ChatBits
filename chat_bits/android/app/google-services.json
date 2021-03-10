@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509955048643",
+    "project_id": "chat-bits",
+    "storage_bucket": "chat-bits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509955048643:android:23d6f3996c6dcf67708e76",
+        "android_client_info": {
+          "package_name": "br.com.chatbits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509955048643-18inoldsrpqfnglhifs5fa2rqcf3qden.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.chatbits",
+            "certificate_hash": "7dc8c81f9fb3e5026d71498c26f3e71b0c5140ec"
+          }
+        },
+        {
+          "client_id": "509955048643-r1f3gor0fbs8r9u1d5lho43lp78p355h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwRV-WRZQ_prYTmhrmlrekJReYmT1YuN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509955048643-r1f3gor0fbs8r9u1d5lho43lp78p355h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
